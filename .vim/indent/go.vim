@@ -1,0 +1,1 @@
+/home/alwinecki/.vim/bundle/vim-golang/indent/go.vim
